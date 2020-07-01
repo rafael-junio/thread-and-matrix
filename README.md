@@ -1,7 +1,7 @@
 # Thread-and-Matrix
 Simple C program that use threads to fill matrix in two different ways.
 
-Warning, this program creates a lot of threads and may can make your computer crash
+Warning, this program creates a lot of threads and can make your computer crash
 
 # Compiling and running:
 ```
